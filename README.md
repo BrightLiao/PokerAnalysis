@@ -141,11 +141,14 @@ python main.py load -d data/merged
 
 ```bash
 # 分析统计指标（自动识别单日/多日）
-python main.py stats -d data/merged
+python main.py stats -d data/merged > data/stats/merge_stat.txt
 
 # 查看单日统计
-python main.py stats -d data/1024
+python main.py stats -d data/1024 > data/stats/1024_single_stat.txt
 ```
+
+#### 4. AI 分析与点评
+目前未直接集成该流程，可使用 ai分析prompt.md 中的 prompt 在大模型 chatbot 中进行分析。
 
 ## 数据模型说明
 
