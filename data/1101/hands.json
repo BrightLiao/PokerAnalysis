@@ -1,0 +1,6984 @@
+[
+  {
+    "hand_id": "1",
+    "hand_number": 1,
+    "timestamp": "2025-11-01T06:11:14.341000+00:00",
+    "dealer": {
+      "name": "vzzz",
+      "id": "awUuJQ4Xdy"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 200.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 400.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 200.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 400.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "4♣",
+      "9♠",
+      "K♣"
+    ],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:11:14.341000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:11:14.341000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:11:20.881000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:11:22.104000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:11:23.229000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:11:26.131000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:11:30.361000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 10.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:11:36.995000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:11:38.449000+00:00"
+        }
+      ],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 5.0,
+    "winners": {
+      "单吊幺鸡 @ ida-rexKgt": 5.0
+    }
+  },
+  {
+    "hand_id": "2",
+    "hand_number": 2,
+    "timestamp": "2025-11-01T06:11:45.223000+00:00",
+    "dealer": {
+      "name": "黄笃读",
+      "id": "CbB4xM29dq"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 199.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 398.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 203.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 400.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:11:45.223000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:11:45.223000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 6.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:11:52.508000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:12:06.920000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:12:08.086000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:12:13.738000+00:00"
+        }
+      ],
+      "flop": [],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 5.0,
+    "winners": {
+      "vzzz @ awUuJQ4Xdy": 5.0
+    }
+  },
+  {
+    "hand_id": "3",
+    "hand_number": 3,
+    "timestamp": "2025-11-01T06:12:20.494000+00:00",
+    "dealer": {
+      "name": "gf110",
+      "id": "Fe8nqv0ysi"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 199.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 397.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 201.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 403.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "7♠",
+      "A♣",
+      "J♠"
+    ],
+    "turn": "4♣",
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:12:20.494000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:12:20.494000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:12:22.555000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 7.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:12:26.761000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:12:29.684000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 7.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:12:44.408000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:12:45.930000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:12:51.645000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 8.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:12:55.374000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 8.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:13:00.409000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:13:04.825000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 16.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:13:08.009000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:13:16.224000+00:00"
+        }
+      ],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 33.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 33.0
+    }
+  },
+  {
+    "hand_id": "4",
+    "hand_number": 4,
+    "timestamp": "2025-11-01T06:13:22.975000+00:00",
+    "dealer": {
+      "name": "单吊幺鸡",
+      "id": "ida-rexKgt"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 197.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 415.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 200.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 388.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "3♣",
+      "A♣",
+      "10♠"
+    ],
+    "turn": "3♠",
+    "river": "9♠",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:13:22.975000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:13:22.975000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:13:25.302000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:13:32.961000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:13:34.675000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:13:41.198000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:13:51.101000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 5.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:13:58.359000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 5.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:14:08.191000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:14:11.331000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:14:13.856000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:14:18.165000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:14:19.635000+00:00"
+        }
+      ]
+    },
+    "showdowns": {
+      "黄笃读 @ CbB4xM29dq": [
+        "J♦",
+        "10♣"
+      ]
+    },
+    "pot_size": 15.0,
+    "winners": {
+      "黄笃读 @ CbB4xM29dq": 15.0
+    }
+  },
+  {
+    "hand_id": "5",
+    "hand_number": 5,
+    "timestamp": "2025-11-01T06:14:26.449000+00:00",
+    "dealer": {
+      "name": "vzzz",
+      "id": "awUuJQ4Xdy"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 205.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 408.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 200.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 387.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:14:26.449000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:14:26.449000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:14:30.543000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:14:35.702000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:14:36.813000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:14:39.028000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:14:49.029000+00:00"
+        }
+      ],
+      "flop": [],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 7.0,
+    "winners": {
+      "vzzz @ awUuJQ4Xdy": 7.0
+    }
+  },
+  {
+    "hand_id": "6",
+    "hand_number": 6,
+    "timestamp": "2025-11-01T06:14:56.504000+00:00",
+    "dealer": {
+      "name": "黄笃读",
+      "id": "CbB4xM29dq"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 204.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 406.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 198.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 392.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:14:56.504000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:14:56.504000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:15:04.190000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:15:05.697000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 6.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:15:08.672000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:15:13.429000+00:00"
+        }
+      ],
+      "flop": [],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 4.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 4.0
+    }
+  },
+  {
+    "hand_id": "7",
+    "hand_number": 7,
+    "timestamp": "2025-11-01T06:15:21.551000+00:00",
+    "dealer": {
+      "name": "gf110",
+      "id": "Fe8nqv0ysi"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 204.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 408.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 196.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 392.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "A♦",
+      "2♠",
+      "J♦"
+    ],
+    "turn": "2♥",
+    "river": "9♦",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:15:21.551000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:15:21.551000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:15:25.182000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:15:27.508000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:15:30.937000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:15:46.815000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:15:53.013000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:16:05.630000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:16:09.650000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 8.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:16:13.649000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:16:19.238000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:16:21.538000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 8.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:16:23.944000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:16:27.531000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:16:31.211000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 12.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:16:38.434000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 12.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:16:40.554000+00:00"
+        }
+      ]
+    },
+    "showdowns": {
+      "黄笃读 @ CbB4xM29dq": [
+        "J♠",
+        "3♦"
+      ],
+      "gf110 @ Fe8nqv0ysi": [
+        "A♠",
+        "5♥"
+      ]
+    },
+    "pot_size": 48.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 48.0
+    }
+  },
+  {
+    "hand_id": "8",
+    "hand_number": 8,
+    "timestamp": "2025-11-01T06:16:47.428000+00:00",
+    "dealer": {
+      "name": "单吊幺鸡",
+      "id": "ida-rexKgt"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 182.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 434.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 194.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 390.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "4♠",
+      "8♣",
+      "6♣"
+    ],
+    "turn": "A♠",
+    "river": "J♣",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:16:47.428000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:16:47.428000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:16:54.925000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:16:56.576000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:17:03.875000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:17:05.360000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:17:11.390000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:17:12.480000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 6.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:17:22.156000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:17:28.719000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 6.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:17:30.452000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:17:33.229000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:17:38.344000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:17:43.851000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:17:45.581000+00:00"
+        }
+      ]
+    },
+    "showdowns": {
+      "黄笃读 @ CbB4xM29dq": [
+        "10♣",
+        "5♦"
+      ],
+      "gf110 @ Fe8nqv0ysi": [
+        "3♦",
+        "4♣"
+      ]
+    },
+    "pot_size": 18.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 18.0
+    }
+  },
+  {
+    "hand_id": "9",
+    "hand_number": 9,
+    "timestamp": "2025-11-01T06:17:52.430000+00:00",
+    "dealer": {
+      "name": "vzzz",
+      "id": "awUuJQ4Xdy"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 174.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 444.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 194.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 388.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "5♦",
+      "3♥",
+      "J♦"
+    ],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:17:52.430000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:17:52.430000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:17:56.160000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:18:01.624000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:18:04.298000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:18:06.671000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:18:08.118000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:18:12.091000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:18:13.633000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:18:16.196000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 16.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:18:36.800000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:18:38.277000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:18:40.321000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:18:42.480000+00:00"
+        }
+      ],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 32.0,
+    "winners": {
+      "vzzz @ awUuJQ4Xdy": 32.0
+    }
+  },
+  {
+    "hand_id": "10",
+    "hand_number": 10,
+    "timestamp": "2025-11-01T06:18:49.241000+00:00",
+    "dealer": {
+      "name": "黄笃读",
+      "id": "CbB4xM29dq"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 166.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 436.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 186.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 412.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "2♦",
+      "A♣",
+      "K♣"
+    ],
+    "turn": "J♦",
+    "river": "5♠",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:18:49.241000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:18:49.241000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:18:52.819000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:18:53.884000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:19:06.422000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:19:10.458000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:19:14.418000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 10.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:19:24.455000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 10.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:19:26.519000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:19:29.014000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:19:34.234000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:19:35.867000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:19:39.627000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 13.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:19:44.242000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:19:47.861000+00:00"
+        }
+      ]
+    },
+    "showdowns": {},
+    "pot_size": 26.0,
+    "winners": {
+      "黄笃读 @ CbB4xM29dq": 26.0
+    }
+  },
+  {
+    "hand_id": "11",
+    "hand_number": 11,
+    "timestamp": "2025-11-01T06:19:51.640000+00:00",
+    "dealer": {
+      "name": "gf110",
+      "id": "Fe8nqv0ysi"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 180.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 434.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 174.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 412.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "6♠",
+      "7♦",
+      "8♣"
+    ],
+    "turn": "4♦",
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:19:51.640000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:19:51.640000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:19:53.364000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 7.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:19:57.134000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 7.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:20:00.377000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:20:26.014000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "bet",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 10.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:20:41.103000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 10.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:20:43.155000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "bet",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 10.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:20:58.324000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 38.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:21:02.925000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:21:22.351000+00:00"
+        }
+      ],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 56.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 56.0
+    }
+  },
+  {
+    "hand_id": "12",
+    "hand_number": 12,
+    "timestamp": "2025-11-01T06:21:29.145000+00:00",
+    "dealer": {
+      "name": "单吊幺鸡",
+      "id": "ida-rexKgt"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 180.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 463.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 147.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 410.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "Q♦",
+      "9♣",
+      "4♥"
+    ],
+    "turn": "6♠",
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:21:29.145000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:21:29.145000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:21:31.544000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:21:34.176000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:21:35.343000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:21:37.222000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:21:40.022000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:21:41.947000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:21:44.093000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:21:46.771000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 7.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:21:50.654000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:21:52.075000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:21:53.180000+00:00"
+        }
+      ],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 7.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 7.0
+    }
+  },
+  {
+    "hand_id": "13",
+    "hand_number": 13,
+    "timestamp": "2025-11-01T06:22:01.378000+00:00",
+    "dealer": {
+      "name": "vzzz",
+      "id": "awUuJQ4Xdy"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 178.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 468.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 145.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 409.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "10♦",
+      "7♥",
+      "9♣"
+    ],
+    "turn": "4♦",
+    "river": "6♥",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:22:01.378000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:22:01.378000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:22:05.485000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:22:11.733000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:22:14.231000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:22:16.033000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:22:23.301000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 16.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:22:28.163000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 16.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:22:30.095000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 16.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:22:37.794000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:22:39.014000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 40.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:22:43.316000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:22:52.065000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 40.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:23:04.206000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:23:24.907000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 81.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:23:47.071000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 81.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:23:48.163000+00:00"
+        }
+      ]
+    },
+    "showdowns": {
+      "单吊幺鸡 @ ida-rexKgt": [
+        "8♣",
+        "A♥"
+      ],
+      "黄笃读 @ CbB4xM29dq": [
+        "4♥",
+        "7♦"
+      ]
+    },
+    "pot_size": 322.0,
+    "winners": {
+      "单吊幺鸡 @ ida-rexKgt": 322.0
+    }
+  },
+  {
+    "hand_id": "14",
+    "hand_number": 14,
+    "timestamp": "2025-11-01T06:23:55.058000+00:00",
+    "dealer": {
+      "name": "黄笃读",
+      "id": "CbB4xM29dq"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 33.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 444.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 322.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 401.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "K♥",
+      "A♦",
+      "10♠"
+    ],
+    "turn": "3♣",
+    "river": "A♥",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:23:55.058000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:23:55.058000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:24:04.530000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:24:05.629000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:24:07.932000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:24:18.905000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:24:25.670000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 10.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:24:35.091000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:24:42.906000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 10.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:24:44.850000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:24:47.802000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:24:58.976000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 13.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:25:05.252000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 13.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:25:07.951000+00:00"
+        }
+      ]
+    },
+    "showdowns": {
+      "gf110 @ Fe8nqv0ysi": [
+        "2♣",
+        "K♦"
+      ]
+    },
+    "pot_size": 52.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 52.0
+    }
+  },
+  {
+    "hand_id": "15",
+    "hand_number": 15,
+    "timestamp": "2025-11-01T06:25:14.812000+00:00",
+    "dealer": {
+      "name": "gf110",
+      "id": "Fe8nqv0ysi"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 31.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 471.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 297.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 401.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "5♣",
+      "3♣",
+      "7♠"
+    ],
+    "turn": "K♠",
+    "river": "J♣",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:25:14.812000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:25:14.812000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:25:17.228000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:25:19.167000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:25:20.792000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:25:28.480000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:25:38.447000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:25:42.447000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 8.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:25:52.223000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 20.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:25:56.584000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:25:58.353000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:25:59.496000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 29.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:26:02.677000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 29.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:26:04.423000+00:00"
+        }
+      ],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {
+      "黄笃读 @ CbB4xM29dq": [
+        "5♦",
+        "2♣"
+      ],
+      "gf110 @ Fe8nqv0ysi": [
+        "K♥",
+        "7♦"
+      ]
+    },
+    "pot_size": 66.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 66.0
+    }
+  },
+  {
+    "hand_id": "16",
+    "hand_number": 16,
+    "timestamp": "2025-11-01T06:26:23.361000+00:00",
+    "dealer": {
+      "name": "单吊幺鸡",
+      "id": "ida-rexKgt"
+    },
+    "players": {
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 506.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 295.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 399.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "K♠",
+      "4♣",
+      "10♥"
+    ],
+    "turn": "9♣",
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:26:23.361000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:26:23.361000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:26:25.993000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:26:43.551000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:26:46.470000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:26:49.944000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:26:52.146000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:27:00.084000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 4.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:27:04.684000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:27:16.455000+00:00"
+        }
+      ],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 4.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 4.0
+    }
+  },
+  {
+    "hand_id": "17",
+    "hand_number": 17,
+    "timestamp": "2025-11-01T06:27:23.209000+00:00",
+    "dealer": {
+      "name": "vzzz",
+      "id": "awUuJQ4Xdy"
+    },
+    "players": {
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 508.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 295.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 397.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "6♦",
+      "J♥",
+      "A♦"
+    ],
+    "turn": "4♥",
+    "river": "J♠",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:27:23.209000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:27:23.209000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:27:26.465000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 6.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:27:30.120000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 6.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:27:32.875000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 6.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:27:39.879000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 6.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:27:41.956000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:27:45.035000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:27:46.852000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:27:49.882000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 5.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:28:00.856000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:28:02.962000+00:00"
+        }
+      ]
+    },
+    "showdowns": {},
+    "pot_size": 24.0,
+    "winners": {
+      "单吊幺鸡 @ ida-rexKgt": 24.0
+    }
+  },
+  {
+    "hand_id": "18",
+    "hand_number": 18,
+    "timestamp": "2025-11-01T06:28:06.759000+00:00",
+    "dealer": {
+      "name": "gf110",
+      "id": "Fe8nqv0ysi"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 200.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 496.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 307.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 397.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "5♣",
+      "6♠",
+      "7♦"
+    ],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:28:06.759000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:28:06.759000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:28:09.035000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:28:10.962000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:28:15.921000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:28:21.985000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:28:28.352000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:28:30.845000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:28:31.912000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 8.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:28:37.994000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:28:40.403000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:28:42.344000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:28:43.608000+00:00"
+        }
+      ],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 8.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 8.0
+    }
+  },
+  {
+    "hand_id": "19",
+    "hand_number": 19,
+    "timestamp": "2025-11-01T06:28:51.030000+00:00",
+    "dealer": {
+      "name": "单吊幺鸡",
+      "id": "ida-rexKgt"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 198.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 502.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 305.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 395.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "3♥",
+      "6♥",
+      "5♠"
+    ],
+    "turn": "2♠",
+    "river": "10♠",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:28:51.030000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:28:51.030000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:28:54.632000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:28:57.769000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:29:04.236000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:29:08.297000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:29:12.495000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 8.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:29:17.124000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:29:18.868000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 8.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:29:20.945000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 8.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:29:28.825000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:29:33.555000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:29:35.284000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:29:37.968000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "bet",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:29:45.995000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 10.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:29:53.528000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:29:56.881000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 62.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:30:24.980000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:30:36.013000+00:00"
+        }
+      ]
+    },
+    "showdowns": {},
+    "pot_size": 52.0,
+    "winners": {
+      "vzzz @ awUuJQ4Xdy": 52.0
+    }
+  },
+  {
+    "hand_id": "20",
+    "hand_number": 20,
+    "timestamp": "2025-11-01T06:30:39.885000+00:00",
+    "dealer": {
+      "name": "vzzz",
+      "id": "awUuJQ4Xdy"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 178.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 500.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 295.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 427.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "5♠",
+      "Q♠",
+      "K♦"
+    ],
+    "turn": "4♠",
+    "river": "9♠",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:30:39.885000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:30:39.885000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:30:45.240000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:30:46.490000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:30:47.817000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:30:51.123000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:30:56.509000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:30:59.548000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 10.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:31:09.653000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 10.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:31:12.286000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:31:13.435000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:31:16.265000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:31:17.699000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 19.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:31:24.500000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:31:26.179000+00:00"
+        }
+      ]
+    },
+    "showdowns": {},
+    "pot_size": 26.0,
+    "winners": {
+      "黄笃读 @ CbB4xM29dq": 26.0
+    }
+  },
+  {
+    "hand_id": "21",
+    "hand_number": 21,
+    "timestamp": "2025-11-01T06:31:29.904000+00:00",
+    "dealer": {
+      "name": "黄笃读",
+      "id": "CbB4xM29dq"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 192.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 498.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 283.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 427.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "J♣",
+      "K♠",
+      "4♥"
+    ],
+    "turn": "2♥",
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:31:29.904000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:31:29.904000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:31:32.960000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:31:34.050000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:31:36.009000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:31:40.481000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:31:45.990000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:31:47.733000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 4.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:31:52.575000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:31:57.288000+00:00"
+        }
+      ],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 4.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 4.0
+    }
+  },
+  {
+    "hand_id": "22",
+    "hand_number": 22,
+    "timestamp": "2025-11-01T06:32:05.484000+00:00",
+    "dealer": {
+      "name": "gf110",
+      "id": "Fe8nqv0ysi"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 192.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 500.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 281.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 427.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "7♦",
+      "5♠",
+      "10♠"
+    ],
+    "turn": "4♣",
+    "river": "6♦",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:32:05.484000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:32:05.484000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:32:07.060000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:32:09.347000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:32:11.793000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 12.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:32:18.725000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 12.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:32:20.927000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:32:22.196000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:32:23.736000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:32:32.277000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:32:34.660000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:32:44.436000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:32:46.488000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:32:52.825000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 14.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:33:06.481000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:33:09.549000+00:00"
+        }
+      ]
+    },
+    "showdowns": {},
+    "pot_size": 28.0,
+    "winners": {
+      "黄笃读 @ CbB4xM29dq": 28.0
+    }
+  },
+  {
+    "hand_id": "23",
+    "hand_number": 23,
+    "timestamp": "2025-11-01T06:33:13.362000+00:00",
+    "dealer": {
+      "name": "单吊幺鸡",
+      "id": "ida-rexKgt"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 208.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 498.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 279.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 415.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "K♦",
+      "6♥",
+      "Q♠"
+    ],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:33:13.362000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:33:13.362000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:33:16.153000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:33:18.474000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:33:20.525000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:33:21.998000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:33:26.032000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:33:27.721000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 6.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:33:30.917000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:33:33.806000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:33:34.902000+00:00"
+        }
+      ],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 6.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 6.0
+    }
+  },
+  {
+    "hand_id": "24",
+    "hand_number": 24,
+    "timestamp": "2025-11-01T06:33:43.817000+00:00",
+    "dealer": {
+      "name": "vzzz",
+      "id": "awUuJQ4Xdy"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 206.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 502.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 279.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 413.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:33:43.817000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:33:43.817000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:33:46.112000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:33:47.333000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:33:49.813000+00:00"
+        }
+      ],
+      "flop": [],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 2.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 2.0
+    }
+  },
+  {
+    "hand_id": "25",
+    "hand_number": 25,
+    "timestamp": "2025-11-01T06:33:58.022000+00:00",
+    "dealer": {
+      "name": "黄笃读",
+      "id": "CbB4xM29dq"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 205.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 503.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 279.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 413.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "Q♦",
+      "2♦",
+      "9♠"
+    ],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:33:58.022000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:33:58.022000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:34:03.949000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:34:05.162000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:34:10.552000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:34:13.071000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 6.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:34:20.623000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:34:27.953000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:34:29.483000+00:00"
+        }
+      ],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 6.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 6.0
+    }
+  },
+  {
+    "hand_id": "26",
+    "hand_number": 26,
+    "timestamp": "2025-11-01T06:34:36.254000+00:00",
+    "dealer": {
+      "name": "gf110",
+      "id": "Fe8nqv0ysi"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 203.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 507.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 277.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 413.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "7♠",
+      "8♠",
+      "8♥"
+    ],
+    "turn": "9♣",
+    "river": "9♥",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:34:36.254000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:34:36.254000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:34:38.763000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 9.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:34:42.720000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 9.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:34:45.579000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 9.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:34:48.376000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 9.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:34:51.043000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:34:57.861000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:35:08.075000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:35:21.808000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:35:24.303000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:35:31.507000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:35:37.995000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:35:39.469000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 27.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:35:43.899000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:35:49.990000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:35:51.118000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 27.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:35:57.817000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:36:02.916000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 67.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:36:08.972000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:36:10.321000+00:00"
+        }
+      ]
+    },
+    "showdowns": {},
+    "pot_size": 90.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 90.0
+    }
+  },
+  {
+    "hand_id": "27",
+    "hand_number": 27,
+    "timestamp": "2025-11-01T06:36:14.814000+00:00",
+    "dealer": {
+      "name": "单吊幺鸡",
+      "id": "ida-rexKgt"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 167.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 561.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 268.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 404.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "J♣",
+      "4♠",
+      "5♥"
+    ],
+    "turn": "10♥",
+    "river": "8♦",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:36:14.814000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:36:14.814000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:36:21.889000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:36:26.166000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:36:32.079000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:36:34.197000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 8.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:36:40.089000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 8.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:36:42.461000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 12.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:36:50.857000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 12.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:36:54.829000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:37:06.960000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:37:12.972000+00:00"
+        }
+      ]
+    },
+    "showdowns": {
+      "黄笃读 @ CbB4xM29dq": [
+        "9♦",
+        "3♦"
+      ],
+      "gf110 @ Fe8nqv0ysi": [
+        "4♣",
+        "2♦"
+      ]
+    },
+    "pot_size": 45.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 45.0
+    }
+  },
+  {
+    "hand_id": "28",
+    "hand_number": 28,
+    "timestamp": "2025-11-01T06:37:19.796000+00:00",
+    "dealer": {
+      "name": "vzzz",
+      "id": "awUuJQ4Xdy"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 145.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 584.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 268.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 403.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "6♦",
+      "7♣",
+      "8♦"
+    ],
+    "turn": "10♣",
+    "river": "A♠",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:37:19.796000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:37:19.796000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:37:22.976000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:37:26.711000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:37:27.865000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:37:32.997000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 6.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:37:40.441000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 6.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:37:42.862000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 6.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:37:45.050000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:37:50.680000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:37:53.480000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:37:55.905000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:37:59.688000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:38:02.167000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:38:03.747000+00:00"
+        }
+      ]
+    },
+    "showdowns": {
+      "黄笃读 @ CbB4xM29dq": [
+        "7♥",
+        "5♣"
+      ],
+      "单吊幺鸡 @ ida-rexKgt": [
+        "2♣",
+        "8♣"
+      ]
+    },
+    "pot_size": 24.0,
+    "winners": {
+      "单吊幺鸡 @ ida-rexKgt": 24.0
+    }
+  },
+  {
+    "hand_id": "29",
+    "hand_number": 29,
+    "timestamp": "2025-11-01T06:38:10.592000+00:00",
+    "dealer": {
+      "name": "黄笃读",
+      "id": "CbB4xM29dq"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 137.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 576.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 284.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 403.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "A♦",
+      "7♠",
+      "K♠"
+    ],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:38:10.592000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:38:10.592000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:38:19.581000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:38:22.455000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:38:25.045000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:38:26.402000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:38:28.872000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 13.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:38:36.562000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:38:38.105000+00:00"
+        }
+      ],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 18.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 18.0
+    }
+  },
+  {
+    "hand_id": "30",
+    "hand_number": 30,
+    "timestamp": "2025-11-01T06:38:45.011000+00:00",
+    "dealer": {
+      "name": "gf110",
+      "id": "Fe8nqv0ysi"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 135.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 586.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 276.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 403.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "7♦",
+      "4♣",
+      "5♦"
+    ],
+    "turn": "K♣",
+    "river": "9♥",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:38:45.011000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:38:45.011000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:38:50.727000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:38:52.925000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:38:58.805000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:39:06.252000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:39:12.213000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:39:22.015000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 8.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:39:27.680000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 8.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:39:29.324000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:39:35.895000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:39:47.953000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:39:52.146000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:39:55.660000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:40:05.745000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:40:07.683000+00:00"
+        }
+      ]
+    },
+    "showdowns": {
+      "黄笃读 @ CbB4xM29dq": [
+        "6♥",
+        "Q♣"
+      ],
+      "gf110 @ Fe8nqv0ysi": [
+        "10♠",
+        "4♥"
+      ]
+    },
+    "pot_size": 24.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 24.0
+    }
+  },
+  {
+    "hand_id": "31",
+    "hand_number": 31,
+    "timestamp": "2025-11-01T06:40:14.532000+00:00",
+    "dealer": {
+      "name": "单吊幺鸡",
+      "id": "ida-rexKgt"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 125.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 600.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 274.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 401.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "3♠",
+      "5♠",
+      "Q♣"
+    ],
+    "turn": "K♦",
+    "river": "A♥",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:40:14.532000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:40:14.532000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:40:18.212000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:40:19.791000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:40:23.970000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:40:54.812000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:41:06.982000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:41:09.402000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:41:11.191000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 6.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:41:17.108000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 6.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:41:18.854000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 6.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:41:20.516000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 25.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:41:26.819000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 25.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:41:29.495000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 25.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:41:31.158000+00:00"
+        }
+      ]
+    },
+    "showdowns": {
+      "黄笃读 @ CbB4xM29dq": [
+        "3♦",
+        "3♣"
+      ]
+    },
+    "pot_size": 100.0,
+    "winners": {
+      "黄笃读 @ CbB4xM29dq": 100.0
+    }
+  },
+  {
+    "hand_id": "32",
+    "hand_number": 32,
+    "timestamp": "2025-11-01T06:41:39.050000+00:00",
+    "dealer": {
+      "name": "vzzz",
+      "id": "awUuJQ4Xdy"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 192.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 567.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 241.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 400.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "10♣",
+      "5♥",
+      "3♠"
+    ],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:41:39.050000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:41:39.050000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:41:43.152000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:41:54.449000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:41:55.653000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:41:57.649000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 6.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:42:03.172000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:42:04.925000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:42:05.993000+00:00"
+        }
+      ],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 6.0,
+    "winners": {
+      "黄笃读 @ CbB4xM29dq": 6.0
+    }
+  },
+  {
+    "hand_id": "33",
+    "hand_number": 33,
+    "timestamp": "2025-11-01T06:42:12.781000+00:00",
+    "dealer": {
+      "name": "黄笃读",
+      "id": "CbB4xM29dq"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 196.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 565.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 239.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 400.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "K♦",
+      "10♠",
+      "9♦"
+    ],
+    "turn": "A♥",
+    "river": "A♣",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:42:12.781000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:42:12.781000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:42:33.684000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:42:34.772000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:42:36.488000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:42:39.570000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:42:43.685000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:42:46.132000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:42:47.165000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:42:50.989000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:42:54.775000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:42:58.042000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:43:00.438000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:43:02.456000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:43:03.534000+00:00"
+        }
+      ]
+    },
+    "showdowns": {
+      "gf110 @ Fe8nqv0ysi": [
+        "6♣",
+        "J♦"
+      ],
+      "黄笃读 @ CbB4xM29dq": [
+        "Q♥",
+        "8♠"
+      ]
+    },
+    "pot_size": 6.0,
+    "winners": {
+      "黄笃读 @ CbB4xM29dq": 6.0
+    }
+  },
+  {
+    "hand_id": "34",
+    "hand_number": 34,
+    "timestamp": "2025-11-01T06:43:10.914000+00:00",
+    "dealer": {
+      "name": "gf110",
+      "id": "Fe8nqv0ysi"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 200.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 563.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 237.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 400.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "A♣",
+      "Q♠",
+      "6♥"
+    ],
+    "turn": "J♦",
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:43:10.914000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:43:10.914000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:43:12.919000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 9.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:43:16.100000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 9.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:43:21.695000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:43:33.390000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 27.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:43:38.476000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 27.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:43:39.985000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:43:42.681000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:43:45.776000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 32.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:43:49.599000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 32.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:43:54.367000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 64.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:44:03.441000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:44:08.529000+00:00"
+        }
+      ],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 129.0,
+    "winners": {
+      "黄笃读 @ CbB4xM29dq": 129.0
+    }
+  },
+  {
+    "hand_id": "35",
+    "hand_number": 35,
+    "timestamp": "2025-11-01T06:44:12.294000+00:00",
+    "dealer": {
+      "name": "单吊幺鸡",
+      "id": "ida-rexKgt"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 270.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 504.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 228.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 398.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "2♥",
+      "10♣",
+      "7♣"
+    ],
+    "turn": "5♦",
+    "river": "5♠",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:44:12.294000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:44:12.294000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:44:20.771000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:44:22.741000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 10.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:44:29.590000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:44:31.959000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 10.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:44:33.613000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 10.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:44:35.066000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "bet",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 16.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:44:43.645000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 16.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:44:47.765000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:44:50.322000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "bet",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 24.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:45:07.076000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 24.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:45:09.200000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "bet",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 96.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:45:37.395000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:45:39.763000+00:00"
+        }
+      ]
+    },
+    "showdowns": {},
+    "pot_size": 112.0,
+    "winners": {
+      "vzzz @ awUuJQ4Xdy": 112.0
+    }
+  },
+  {
+    "hand_id": "36",
+    "hand_number": 36,
+    "timestamp": "2025-11-01T06:45:43.647000+00:00",
+    "dealer": {
+      "name": "vzzz",
+      "id": "awUuJQ4Xdy"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 268.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 454.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 218.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 460.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "2♠",
+      "6♠",
+      "2♥"
+    ],
+    "turn": "4♥",
+    "river": "A♦",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:45:43.647000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:45:43.647000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:45:45.724000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:45:48.245000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:45:49.469000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 4.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:45:53.640000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 4.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:45:55.748000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 12.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:45:59.240000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:46:02.033000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 12.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:46:08.568000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:46:11.330000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:46:13.455000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:46:15.630000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:46:19.021000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 28.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:46:22.495000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 28.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:46:27.187000+00:00"
+        }
+      ]
+    },
+    "showdowns": {
+      "黄笃读 @ CbB4xM29dq": [
+        "A♥",
+        "Q♣"
+      ]
+    },
+    "pot_size": 84.0,
+    "winners": {
+      "黄笃读 @ CbB4xM29dq": 84.0
+    }
+  },
+  {
+    "hand_id": "37",
+    "hand_number": 37,
+    "timestamp": "2025-11-01T06:46:34.066000+00:00",
+    "dealer": {
+      "name": "黄笃读",
+      "id": "CbB4xM29dq"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 312.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 450.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 178.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 460.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "10♥",
+      "10♦",
+      "2♦"
+    ],
+    "turn": "2♥",
+    "river": "3♣",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:46:34.066000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:46:34.066000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 6.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:46:37.833000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:46:45.382000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 16.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:46:49.204000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 16.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:46:53.676000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:47:00.541000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:47:04.435000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:47:06.439000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:47:08.788000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:47:10.587000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "bet",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 19.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:47:15.756000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:47:17.629000+00:00"
+        }
+      ]
+    },
+    "showdowns": {},
+    "pot_size": 38.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 38.0
+    }
+  },
+  {
+    "hand_id": "38",
+    "hand_number": 38,
+    "timestamp": "2025-11-01T06:47:21.346000+00:00",
+    "dealer": {
+      "name": "gf110",
+      "id": "Fe8nqv0ysi"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 312.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 472.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 162.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 454.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "7♠",
+      "10♠",
+      "3♣"
+    ],
+    "turn": "2♦",
+    "river": "J♣",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:47:21.346000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:47:21.346000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:47:24.433000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:47:29.925000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:47:31.537000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:47:43.530000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:47:51.624000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:47:52.730000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 4.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:47:56.720000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:47:59.109000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 4.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:48:01.056000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:48:09.833000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:48:13.818000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:48:18.896000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:48:22.345000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 16.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:48:25.932000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:48:27.526000+00:00"
+        }
+      ]
+    },
+    "showdowns": {},
+    "pot_size": 16.0,
+    "winners": {
+      "黄笃读 @ CbB4xM29dq": 16.0
+    }
+  },
+  {
+    "hand_id": "39",
+    "hand_number": 39,
+    "timestamp": "2025-11-01T06:48:31.238000+00:00",
+    "dealer": {
+      "name": "单吊幺鸡",
+      "id": "ida-rexKgt"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 322.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 470.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 156.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 452.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "7♠",
+      "9♦",
+      "9♥"
+    ],
+    "turn": "3♣",
+    "river": "5♠",
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:48:31.238000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:48:31.238000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:48:32.943000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:48:34.014000+00:00"
+        },
+        {
+          "action_type": "raise",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:48:46.454000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:48:50.285000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 8.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:48:52.123000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:48:57.960000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:48:59.021000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:49:00.883000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:49:04.751000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:49:06.232000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:49:07.605000+00:00"
+        }
+      ],
+      "river": [
+        {
+          "action_type": "check",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:49:15.964000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 6.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:49:22.644000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 6.0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:49:25.223000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "river",
+          "timestamp": "2025-11-01T06:49:27.976000+00:00"
+        }
+      ]
+    },
+    "showdowns": {
+      "黄笃读 @ CbB4xM29dq": [
+        "10♦",
+        "Q♠"
+      ],
+      "gf110 @ Fe8nqv0ysi": [
+        "5♣",
+        "2♣"
+      ]
+    },
+    "pot_size": 36.0,
+    "winners": {
+      "gf110 @ Fe8nqv0ysi": 36.0
+    }
+  },
+  {
+    "hand_id": "40",
+    "hand_number": 40,
+    "timestamp": "2025-11-01T06:49:34.842000+00:00",
+    "dealer": {
+      "name": "vzzz",
+      "id": "awUuJQ4Xdy"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 308.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 492.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 156.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 444.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "2♦",
+      "A♣",
+      "J♣"
+    ],
+    "turn": "10♥",
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:49:34.842000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:49:34.842000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:49:38.489000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:49:39.629000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:49:40.844000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:49:43.578000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:49:46.380000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:49:48.742000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:49:51.339000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 6.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:49:55.883000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:49:57.608000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:50:01.324000+00:00"
+        }
+      ],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 6.0,
+    "winners": {
+      "黄笃读 @ CbB4xM29dq": 6.0
+    }
+  },
+  {
+    "hand_id": "41",
+    "hand_number": 41,
+    "timestamp": "2025-11-01T06:50:08.135000+00:00",
+    "dealer": {
+      "name": "黄笃读",
+      "id": "CbB4xM29dq"
+    },
+    "players": {
+      "黄笃读 @ CbB4xM29dq": {
+        "name": "黄笃读",
+        "id": "CbB4xM29dq",
+        "stack": 312.0,
+        "position": 1
+      },
+      "gf110 @ Fe8nqv0ysi": {
+        "name": "gf110",
+        "id": "Fe8nqv0ysi",
+        "stack": 490.0,
+        "position": 2
+      },
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 154.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 444.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [
+      "A♥",
+      "J♦",
+      "9♠"
+    ],
+    "turn": "3♣",
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:50:08.135000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:50:08.135000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:50:09.953000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:50:11.043000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:50:14.143000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:50:15.813000+00:00"
+        }
+      ],
+      "flop": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:50:18.504000+00:00"
+        },
+        {
+          "action_type": "check",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:50:20.457000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 3.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:50:26.395000+00:00"
+        },
+        {
+          "action_type": "call",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 3.0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:50:27.572000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "flop",
+          "timestamp": "2025-11-01T06:50:35.490000+00:00"
+        }
+      ],
+      "turn": [
+        {
+          "action_type": "check",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:50:38.492000+00:00"
+        },
+        {
+          "action_type": "bet",
+          "player_name": "黄笃读",
+          "player_id": "CbB4xM29dq",
+          "amount": 6.0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:50:49.058000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "gf110",
+          "player_id": "Fe8nqv0ysi",
+          "amount": 0,
+          "street": "turn",
+          "timestamp": "2025-11-01T06:50:51.444000+00:00"
+        }
+      ],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 12.0,
+    "winners": {
+      "黄笃读 @ CbB4xM29dq": 12.0
+    }
+  },
+  {
+    "hand_id": "42",
+    "hand_number": 42,
+    "timestamp": "2025-11-01T06:50:58.247000+00:00",
+    "dealer": {
+      "name": "单吊幺鸡",
+      "id": "ida-rexKgt"
+    },
+    "players": {
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 152.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 444.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:50:58.247000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:50:58.247000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:51:58.252000+00:00"
+        }
+      ],
+      "flop": [],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 2.0,
+    "winners": {
+      "vzzz @ awUuJQ4Xdy": 2.0
+    }
+  },
+  {
+    "hand_id": "43",
+    "hand_number": 43,
+    "timestamp": "2025-11-01T06:52:02.075000+00:00",
+    "dealer": {
+      "name": "vzzz",
+      "id": "awUuJQ4Xdy"
+    },
+    "players": {
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 151.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 445.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:52:02.075000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:52:02.075000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:53:02.112000+00:00"
+        }
+      ],
+      "flop": [],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 2.0,
+    "winners": {
+      "单吊幺鸡 @ ida-rexKgt": 2.0
+    }
+  },
+  {
+    "hand_id": "44",
+    "hand_number": 44,
+    "timestamp": "2025-11-01T06:53:05.846000+00:00",
+    "dealer": {
+      "name": "单吊幺鸡",
+      "id": "ida-rexKgt"
+    },
+    "players": {
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 152.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 444.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:53:05.846000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:53:05.846000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:53:35.865000+00:00"
+        }
+      ],
+      "flop": [],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 2.0,
+    "winners": {
+      "vzzz @ awUuJQ4Xdy": 2.0
+    }
+  },
+  {
+    "hand_id": "45",
+    "hand_number": 45,
+    "timestamp": "2025-11-01T06:53:39.666000+00:00",
+    "dealer": {
+      "name": "vzzz",
+      "id": "awUuJQ4Xdy"
+    },
+    "players": {
+      "单吊幺鸡 @ ida-rexKgt": {
+        "name": "单吊幺鸡",
+        "id": "ida-rexKgt",
+        "stack": 151.0,
+        "position": 3
+      },
+      "vzzz @ awUuJQ4Xdy": {
+        "name": "vzzz",
+        "id": "awUuJQ4Xdy",
+        "stack": 445.0,
+        "position": 6
+      }
+    },
+    "small_blind": 1.0,
+    "big_blind": 2.0,
+    "flop": [],
+    "turn": null,
+    "river": null,
+    "actions": {
+      "preflop": [
+        {
+          "action_type": "small_blind",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 1.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:53:39.666000+00:00"
+        },
+        {
+          "action_type": "big_blind",
+          "player_name": "单吊幺鸡",
+          "player_id": "ida-rexKgt",
+          "amount": 2.0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:53:39.666000+00:00"
+        },
+        {
+          "action_type": "fold",
+          "player_name": "vzzz",
+          "player_id": "awUuJQ4Xdy",
+          "amount": 0,
+          "street": "preflop",
+          "timestamp": "2025-11-01T06:54:09.702000+00:00"
+        }
+      ],
+      "flop": [],
+      "turn": [],
+      "river": []
+    },
+    "showdowns": {},
+    "pot_size": 0.0,
+    "winners": {}
+  }
+]

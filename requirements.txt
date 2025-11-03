@@ -1,0 +1,23 @@
+# 阶段一：数据解析和建模
+# Python 3.8+
+
+# 数据处理（阶段二会用到）
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 实时客户端依赖
+selenium>=4.0.0
+
+# 未来阶段会用到的库
+# 可视化（阶段五）
+# echarts-python>=0.1.0
+# jinja2>=3.0.0
+
+# AI接口（阶段三）
+# openai>=1.0.0
+google-generativeai>=0.3.0
+
+# Web服务（可选）
+# flask>=3.0.0
+# fastapi>=0.100.0
+
